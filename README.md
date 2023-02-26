@@ -1,2 +1,2 @@
 # WatchOS
-Kams on WatchOS
+Kams on Apple Watch
