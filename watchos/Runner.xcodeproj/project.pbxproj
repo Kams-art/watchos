@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ED1A730F29ACFD890065C66E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = ED1A730E29ACFD890065C66E /* GoogleService-Info.plist */; };
 		ED1CA0C2299A3AC40029E784 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = ED1CA0C1299A3AC40029E784 /* FirebaseDatabase */; };
 		ED1CA0C4299A3AC40029E784 /* FirebaseDatabaseSwift in Frameworks */ = {isa = PBXBuildFile; productRef = ED1CA0C3299A3AC40029E784 /* FirebaseDatabaseSwift */; };
 		ED1CA0C6299A3AC40029E784 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = ED1CA0C5299A3AC40029E784 /* FirebaseStorage */; };
@@ -41,7 +40,6 @@
 		26C7E785C15025C371E5D618 /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
 		89F09EE3D079E7024740B1B5 /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
 		EB80E5EC5BD84E94E117A4BD /* Pods_Runner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED1A730E29ACFD890065C66E /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../../../../Documents/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		ED6622802996A41000B5677E /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		ED6622822996A41000B5677E /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
 		ED66229D2996A4A700B5677E /* Kams.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Kams.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -120,7 +118,6 @@
 		ED66229E2996A4A700B5677E /* watch Watch App */ = {
 			isa = PBXGroup;
 			children = (
-				ED1A730E29ACFD890065C66E /* GoogleService-Info.plist */,
 				ED66229F2996A4A700B5677E /* watchApp.swift */,
 				ED6622A12996A4A700B5677E /* ContentView.swift */,
 				ED6622A32996A4A800B5677E /* Assets.xcassets */,
@@ -284,7 +281,6 @@
 			files = (
 				ED6622A72996A4A800B5677E /* Preview Assets.xcassets in Resources */,
 				ED6622A42996A4A800B5677E /* Assets.xcassets in Resources */,
-				ED1A730F29ACFD890065C66E /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
