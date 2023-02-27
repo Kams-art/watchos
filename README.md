@@ -14,7 +14,7 @@ On this application you can :
 
 HomeScreen               |  Diapositiv
 :-------------------------:|:-------------------------:|
-[<img src="https://firebasestorage.googleapis.com/v0/b/test-bdb24.appspot.com/o/screen%2FSimulator%20Screen%20Shot%20-%20Apple%20Watch%20Series%208%20(45mm)%20-%202023-02-27%20at%2016.04.50.png?alt=media&token=1e05cc43-466e-47b8-8bf7-bbdda102ed69" alt="Home Screen" width="250"/>]()|[<img src="https://firebasestorage.googleapis.com/v0/b/test-bdb24.appspot.com/o/screen%2FSimulator%20Screen%20Shot%20-%20Apple%20Watch%20Series%208%20(45mm)%20-%202023-02-27%20at%2016.05.56.png?alt=media&token=acc5950f-a343-45f4-9372-cb44fc1024bf" alt="Diapostiv" width="250"/>]()
+[<img src="https://github.com/Kams-art/Assets/blob/main/preview/watchos/home.png" alt="Home Screen" width="250"/>]()|[<img src="https://github.com/Kams-art/Assets/blob/main/preview/watchos/diapositiv.png" alt="Diapostiv" width="250"/>]()
 
 # Download
 
