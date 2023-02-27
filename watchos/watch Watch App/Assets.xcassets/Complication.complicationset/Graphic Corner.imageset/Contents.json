@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "IMG_9278.jpeg",
+      "idiom" : "watch",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "IMG_9279.jpeg",
+      "idiom" : "watch",
+      "scale" : "2x",
+      "screen-width" : ">183"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "auto-scaling" : "auto"
+  }
+}

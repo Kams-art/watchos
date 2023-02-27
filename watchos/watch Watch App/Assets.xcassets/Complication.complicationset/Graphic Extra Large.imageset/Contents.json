@@ -1,0 +1,28 @@
+{
+  "images" : [
+    {
+      "filename" : "IMG_9279.jpg",
+      "idiom" : "watch",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "IMG_9280.jpg",
+      "idiom" : "watch",
+      "scale" : "2x",
+      "screen-width" : "<=145"
+    },
+    {
+      "filename" : "IMG_9281-5-2.jpg",
+      "idiom" : "watch",
+      "scale" : "2x",
+      "screen-width" : ">183"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "auto-scaling" : "auto"
+  }
+}
